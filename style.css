@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+.main{
+
+    border: 12px solid pink;
+    padding: 50px;
+    height: 800px;
+    overflow:scroll;
+    background-color: rgb(41, 149, 145);
+
+}
+  p{
+    color: blue;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight:400;
+  }
+@media screen and (max-width:400px){
+  .main{
+    background-color: green;
+  }
+  
+}
+@media screen and(max-width:100px) {
+  .main{
+    background-color: yellow;
+  }
+}
+  

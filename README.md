@@ -1,0 +1,1 @@
+overflow four type hidden,scroll,auto,visible then fonts, icons,media query,cdn path then claer explain the notes  refer to and html,style,media please check 
